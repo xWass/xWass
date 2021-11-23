@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=xWass&color=green&style=plastic)
 
 <!--
 **xWass/xWass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
